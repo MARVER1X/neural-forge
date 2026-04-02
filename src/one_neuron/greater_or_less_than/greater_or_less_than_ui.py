@@ -13,7 +13,7 @@ while True:
     if task == "3":
         print("\nShutting down neuron...")
         break
-    print("\nEnter only values within 0-9 or thier string representation zero-nine\n")
+    print("\nEnter only values within 0-9 or thier string representation zero-nine")
     while True:
         try:
             # Collect two raw inputs from the user as strings
