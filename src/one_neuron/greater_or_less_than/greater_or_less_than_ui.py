@@ -9,7 +9,7 @@ while True:
         if task == "1" or task == "2" or task == "3":
             break
         else:
-            print("\nInvalid Input\n")
+            print("\nInvalid Input")
     if task == "3":
         print("\nShutting down neuron...")
         break
